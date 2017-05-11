@@ -18,6 +18,13 @@ body {
     width: 75%;
     margin-top: 40px;
 }
+.autobox-greendoors-img img {
+    height: 100%;
+    width: 100%;
+    margin-top: 16px;
+    -webkit-transform: rotate(-1grad);
+
+}
 .second-kvests {
     margin-top: 35px;
 }
