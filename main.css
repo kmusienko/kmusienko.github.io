@@ -13,3 +13,6 @@ body {
 .second-kvests {
     margin-top: 35px;
 }
+.kvest-iter:hover {
+    -webkit-transform: scale(1.5);
+}
