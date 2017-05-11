@@ -1,0 +1,15 @@
+body {
+    background-image: url("img/шторочки.png");
+    background-size: cover;
+}
+.autobox-img img {
+    height: 100%;
+    width: 100%;
+    margin-top: -25px;
+}
+.my-marg {
+    margin-top: -135px;
+}
+.second-kvests {
+    margin-top: 35px;
+}
